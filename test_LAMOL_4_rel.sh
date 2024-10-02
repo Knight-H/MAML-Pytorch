@@ -1,0 +1,1 @@
+python3.8 maml_pytorch_test-LAMOL_rel.py --is_lamol --train_batch_size 4 --test_batch_size 4 --min_batch_size 4 --gen_lm_sample_percentage 0.05 --real_sample --model_dir_name 20230905T072551_FewRel_LAMOL

@@ -1,0 +1,1 @@
+python3.8 maml_pytorch_clean-LAMOL_rel.py --gen_lm_sample_percentage 0.05 --min_batch_size 4 --train_batch_size 4 --test_batch_size 4  --real_sample

@@ -3,3 +3,8 @@ miniimagenet
 omniglot
 .idea
 __pycache__
+model
+dataset
+.ipynb_checkpoints/
+.vector_cache/
+runs/
